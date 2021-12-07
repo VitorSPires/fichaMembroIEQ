@@ -61,4 +61,4 @@ with form.container():
 if pg2:
     db.salvarFicha(listaGrupoMembros)
     st.header('Ficha atualizada com sucesso!')
-    st.write("[Clique aqui](https://youtube.com/QuadrangularDoAlto) para assistir a assembéia.")
+    st.write("[Clique aqui](https://youtu.be/7qttEZ7eMEw) para assistir a assembéia.")
