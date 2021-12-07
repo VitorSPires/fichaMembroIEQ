@@ -22,7 +22,7 @@ with form.container():
 
 with form.container():
     st.subheader('Para que serve esse formulário?')
-    st.write('Essa ficha de membros serve para que tenhamos meios de contatos atualizados com todos os membros. Não se preocupe, seus dados estarão seguros com a gente!')
+    st.write('A ficha de membros serve para que tenhamos meios de contatos atualizados com todos os membros. Não se preocupe, seus dados estarão seguros com a gente!')
     st.write('Vale ressaltar que é muito importante cadastrar todos os membros, pois é assim que será feita a contagem de de presença para a assembléia, que só tem início quando a maioria estiver reunida.')
 
     st.write('\n')
